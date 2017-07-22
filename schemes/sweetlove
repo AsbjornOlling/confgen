@@ -1,0 +1,28 @@
+#!/bin/bash
+
+export pri_bg="#1f1f1f"
+export pri_fg="#c0b18b"
+
+export pri_0="#4a3637"
+export alt_0="#402e2e"
+
+export pri_1="#d17b49"
+export alt_1="#ac5d2f"
+
+export pri_2="#7b8748"
+export alt_2="#647035"
+
+export pri_3="#af865a"
+export alt_3="#8f6840"
+
+export pri_4="#535c5c"
+export alt_4="#444b4b"
+
+export pri_5="#775759"
+export alt_5="#614445"
+
+export pri_6="#6d715e"
+export alt_6="#585c49"
+
+export pri_7="#c0b18b"
+export alt_7="#978965"
